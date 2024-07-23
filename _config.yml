@@ -12,7 +12,7 @@ email: haseeb-ur-rehman.faheem@uwaterloo.ca
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: haseeburehman_
@@ -21,8 +21,8 @@ github_username:  haseeb62
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: haseeburrrehman_
-linkedin_username: haseeburrrehman_
+instagram_username: haseeburehman_
+linkedin_username: haseeburrrehman
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
