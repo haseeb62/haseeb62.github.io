@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Haseeb-Ur-Rehman Faheem
-title: Research Assistant
+# title: Research Assistant
 email: haseeb-ur-rehman.faheem@uwaterloo.ca
 # website: www.github.com/sproogen/resume-theme
 
@@ -48,8 +48,9 @@ linkedin_username: haseeburrrehman_
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Haseeb and Hi there! I am a Master's student in Computer Science at the University of Waterloo.
- 
+  Hi, my name is Haseeb. I am a Master's student at the University of Waterloo under the supervision of [Yousra Aafer](https://cs.uwaterloo.ca/~yaafer/), working in the [Cryptography Security and Privacy (CrySP) Lab](https://crysp.uwaterloo.ca/). My current interests include systems security and software engineering.
+  
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,28 +89,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: Lahore University of Management Sciences
+        caption: 2019 - 2023
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Courses : Object-Oriented Programming, Data Structures, Algorithms Design and Analysis, Operating Systems,
+Network Security, Software Engineering, Data Science, Artificial Intelligence, Machine Learning
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      Alongside my interests in software engineering and security, some of my other interests and hobbies are:
+      - Chess
+      - Football 
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
